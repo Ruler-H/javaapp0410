@@ -9,7 +9,7 @@ public class dowhile1 {
 			sum = sum + idx;
 			idx = idx + 1;
 		}while(idx < 11);
-		System.out.println("ÇÕ°è : " + sum);
+		System.out.println("í•©ê³„ : " + sum);
 	}
 
 }
